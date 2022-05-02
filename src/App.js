@@ -6,9 +6,9 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        Live changes updating now! and stil!</br>
+        Live changes updating now! and stil!
 
-        : )
+        : ) mnbmnb
       </header>
     </div>
   );
