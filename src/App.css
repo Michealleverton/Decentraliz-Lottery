@@ -24,7 +24,7 @@
   color: #e9c57d;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #282c34;
-  text-shadow:3px 3px #000000;
+  text-shadow:3px 3px 8px #000000;
 }
 
 .bkimg {
