@@ -21,9 +21,10 @@
   align-items: center;
   justify-content: center;
   font-size: calc(20px + 2vmin);
-  color: #282c34;
-  -webkit-text-stroke-width: .6px;
-  -webkit-text-stroke-color: rgb(255, 255, 255);
+  color: #e9c57d;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #282c34;
+  text-shadow:3px 3px #000000;
 }
 
 .bkimg {
