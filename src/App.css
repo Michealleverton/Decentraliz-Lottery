@@ -21,7 +21,9 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(255, 255, 255);
+  -webkit-text-stroke-width: .5px;
+  -webkit-text-stroke-color: rgb(0, 0, 0);
 }
 
 .App-link {
@@ -35,4 +37,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.bkimg {
+  background-image: url("./assets/favicon.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: 40%;
 }
