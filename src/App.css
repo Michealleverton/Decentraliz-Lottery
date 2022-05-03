@@ -2,6 +2,11 @@
   text-align: center;
 }
 
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -15,7 +20,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(30px + 2vmin);
+  font-size: calc(20px + 2vmin);
   color: #282c34;
   -webkit-text-stroke-width: .6px;
   -webkit-text-stroke-color: rgb(255, 255, 255);
@@ -28,4 +33,3 @@
   background-position: center;
   background-size: 40%;
 }
-
